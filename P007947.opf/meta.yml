@@ -1,5 +1,7 @@
-id: opecha:P007947
+id: P007947
 initial_creation_type: ocr
+created_at: 22/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W23728
   title: གསང་བ་སྒྱུ་འཕྲུལ་ཞི་ཁྲོ་གཉིས་ཀྱི་རྩ་འཆམས་བྱུང་ཁུངས་ལོ་རྒྱུས་རྩ་ཚིག་བཅས་གོ་གསལ་དུ་བཀོད་པ་བཞུགས་སོ
@@ -17,10 +19,3 @@ source_metadata:
       volume_number: 1
       total_pages: 34
       base_file: v001.txt
-ebook_metadata:
-  title: གསང་བ་སྒྱུ་འཕྲུལ་ཞི་ཁྲོ་གཉིས་ཀྱི་རྩ་འཆམས་བྱུང་ཁུངས་ལོ་རྒྱུས་རྩ་ཚིག་བཅས་གོ་གསལ་དུ་བཀོད་པ་བཞུགས་སོ
-  author: ''
-  sku: P007947
-  cover: cover.jpg
-  layers:
-  - pagination
